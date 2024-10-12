@@ -2,8 +2,8 @@
   <p align="center">
     <img src="https://cdn.discordapp.com/attachments/1131413885061185697/1212894557428121671/ALMPKm3.png?ex=65f37f14&is=65e10a14&hm=587993c4d39773f0c751f900309b8b407327bdc2c0b2effd6b820fed67e462fe&" height="135" width="135">
   </p>
-  <h1 align="center">Ephemeral</h1>
-  <p align="center">Ephemeral is a site used for evading internet censorship at fast speeds!</p>
+  <h1 align="center">Ephemeral-Continuation</h1>
+  <p align="center">Ephemeral-Continuation is a continuation of Ephemeral used for evading internet censorship at fast speeds!</p>
 </div>
 
 ## Features
